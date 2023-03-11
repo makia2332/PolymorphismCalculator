@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678559408 source:c:\users\rap_a\onedrive\desktop\classcalculator\main.cpp
+	<iostream>
+	<iomanip>
+	"calculator.h"
+
+1678559212 c:\users\rap_a\onedrive\desktop\classcalculator\calculator.h
+
